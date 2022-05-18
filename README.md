@@ -31,6 +31,6 @@ hobbies: ["Rock Climbing", "Camping", "Kayaking", "Drawing"]
   
 
 ```
-
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LWeisenhorn)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://stats4github.vercel.app/api/top-langs/?username=donno2048&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=LWeisenhorn)](https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LWeisenhorn)](https://github.com/anuraghazra/github-readme-stats)
