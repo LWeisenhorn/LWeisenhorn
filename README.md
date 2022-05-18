@@ -6,6 +6,7 @@
 </a>
 
 <p>A bit about me</p>
+
 ```yaml
 name: Luke Weisenhorn
 locatedIn: Charlotte, NC
