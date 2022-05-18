@@ -3,7 +3,7 @@
 </p>
 <a href="https://www.linkedin.com/in/luke-weisenhorn/">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">
-</a>
+</a><br>
 
 <p>A bit about me</p>
 
