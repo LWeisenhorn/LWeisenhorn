@@ -3,9 +3,9 @@
 </p>
 <a href="https://www.linkedin.com/in/luke-weisenhorn/">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">
-</a><br>
+</a>
 
-<p>A bit about me</p>
+<h2>A bit about me</h2>
 
 ```yaml
 name: Luke Weisenhorn
@@ -31,3 +31,6 @@ hobbies: ["Rock Climbing", "Camping", "Kayaking", "Drawing"]
   
 
 ```
+
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LWeisenhorn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LWeisenhorn)](https://github.com/anuraghazra/github-readme-stats)
