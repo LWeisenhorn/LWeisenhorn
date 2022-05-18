@@ -31,5 +31,5 @@ hobbies: ["Rock Climbing", "Camping", "Kayaking", "Drawing"]
   
 
 ```
-
+<img src="https://stats4github.vercel.app/api?username=LWeisenhorn&include_all_commits=true">
 <img src="https://stats4github.vercel.app/api/top-langs/?username=LWeisenhorn&langs_count=11&hide=html&layout=compact">
