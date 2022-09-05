@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <a href="https://www.linkedin.com/in/luke-weisenhorn/">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">
 </a>
