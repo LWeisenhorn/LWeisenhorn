@@ -28,10 +28,11 @@ fieldsOfInterest:
     "Data Science"
   ]
 
-technicalExperience: {
-  "UNC Charlotte Software Engineering Teaching Assistant (Aug 2022 - present)",
-  "Bank of America Global Technology Summer Analyst (Jun 2022 - Aug 2022)"
-}
+technicalExperience: 
+  [
+    "UNC Charlotte Software Engineering Teaching Assistant (Aug 2022 - present)",
+    "Bank of America Global Technology Summer Analyst (Jun 2022 - Aug 2022)"
+  ]
 
 hobbies: ["Rock Climbing", "Camping", "Kayaking", "Drawing"]
   
