@@ -12,7 +12,7 @@ I'm a full-stack developer helping forge my part of the digital landscape one st
 ```yaml
 name: Luke Weisenhorn
 locatedIn: Charlotte, NC
-currentJob: Student, TA for Software Engineering Course
+currentJob: Student, Software Engineering Intern at Bank of America
 
 education:
   [
@@ -30,7 +30,9 @@ fieldsOfInterest:
 
 technicalExperience: 
   [
-    "UNC Charlotte Software Engineering Teaching Assistant (Aug 2022 - present)",
+    "Bank of America Global Technology Summer Analyst (Jun 2023 - Aug 2023)",
+    "SocialBit Undergraduate Research (Jan 2023 - May 2023)",
+    "UNC Charlotte Software Engineering Teaching Assistant (Aug 2022 - Dec 2022)",
     "Bank of America Global Technology Summer Analyst (Jun 2022 - Aug 2022)"
   ]
 
